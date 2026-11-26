@@ -1,0 +1,41 @@
+:root{--ds-navy:#10243D;--ds-amber:#FFBF46}
+.ds-hero{position:relative;overflow:hidden;text-align:center;border:3px solid var(--gold);border-radius:18px;background:radial-gradient(ellipse at 50% 0,#2a4a78 0,var(--ds-navy) 65%);padding:0 12px 20px;box-shadow:0 0 0 2px #0006,0 0 26px #d4af3755 inset,0 8px 24px #0008}
+.ds-weave{height:16px;margin:0 -12px 14px;background:repeating-linear-gradient(90deg,#b01526 0 10px,#fff0d2 10px 14px,var(--ds-navy) 14px 26px,var(--gold) 26px 30px)}
+.ds-hero h1{font-size:1.5rem;letter-spacing:.05em;margin:.1em 0}
+.ds-hero h2{color:var(--ds-amber);font-size:1.25rem}
+.ds-slo{font-style:italic;color:#f4e4b0}
+.ds-sub{font-size:.95rem;color:#e9d9a6}
+.ds-ban{display:flex;gap:12px;align-items:center;text-align:left;width:100%;margin:10px 0;padding:12px;background:linear-gradient(135deg,#1b3a63,var(--ds-navy));border:2px solid var(--ds-amber);box-shadow:0 0 18px #ffbf4655}
+.ds-ban span{font-size:2.2rem}.ds-ban b{display:block;color:var(--ds-amber)}.ds-ban small{color:#e9d9a6;font-weight:400}
+.ds-tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:12px 0}
+@media(min-width:600px){.ds-tiles{grid-template-columns:repeat(4,1fr)}}
+.ds-t{text-align:center;padding:14px 6px;background:linear-gradient(160deg,#1b3a63,var(--ds-navy));transition:transform .2s,box-shadow .2s}
+.ds-t span{display:block;font-size:2rem}.ds-t b{display:block;color:var(--ds-amber);font-size:.95rem}
+.ds-t:hover,.ds-t:active,.ds-ban:hover{transform:translateY(-3px);box-shadow:0 0 20px #ffbf46aa}
+.ds-tools{display:flex;gap:8px;flex-wrap:wrap}.ds-tools>*{flex:1 1 200px}
+.ds-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+@media(min-width:600px){.ds-grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:900px){.ds-grid{grid-template-columns:repeat(4,1fr)}}
+.ds-tile{position:relative;display:block;width:100%;padding:0;margin:0;border:2px solid transparent;background:none;border-radius:12px;color:var(--cream);text-align:center;font-weight:400;transition:transform .2s,box-shadow .2s}
+.ds-tile:hover,.ds-tile:focus-visible{transform:translateY(-4px);box-shadow:0 0 22px #ffbf46aa}
+.ds-tile em{position:absolute;top:6px;right:6px;background:var(--gold);color:#222;border-radius:50%;width:26px;height:26px;display:flex;align-items:center;justify-content:center;font-style:normal;font-weight:800}
+.ds-cap{display:block;font-size:.85rem;padding:4px 2px}
+.ds-face{display:block;position:relative;aspect-ratio:63/88;background:var(--ds-navy);border-radius:10px;overflow:hidden;box-shadow:0 6px 16px #0009}
+.ds-face img{display:block;width:100%;height:100%;object-fit:contain}
+.ds-face.miss img{display:none}.ds-face.miss::after{content:attr(data-t);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;color:#ffeaa6;font-weight:600;border:3px solid var(--gold);border-radius:10px}
+.ds-flip{perspective:1000px;max-width:380px;margin:14px auto}
+.ds-in{position:relative;aspect-ratio:63/88;transform-style:preserve-3d;transition:transform .7s}
+.ds-flip.fl .ds-in{transform:rotateY(180deg)}
+.ds-f,.ds-b{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:12px;overflow:hidden;box-shadow:0 0 26px #ffbf4666,0 10px 22px #000a}
+.ds-f{cursor:pointer}.ds-b{transform:rotateY(180deg);background:var(--ds-navy)}
+.ds-b img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+.ds-bc{position:absolute;left:12%;right:12%;top:21%;bottom:19%;overflow:auto;color:var(--cream);font-size:clamp(.78rem,3.3vw,.95rem);line-height:1.4;-webkit-overflow-scrolling:touch}
+.ds-bc h3{font-size:1.05em;margin:.1em 0;text-align:center;color:var(--ds-amber)}
+.ds-code{text-align:center;font-weight:800;color:var(--gold);letter-spacing:.1em}
+.ds-kw{text-align:center;font-size:.85em;color:#e9d9a6;margin:.2em 0}
+.ds-bb{display:flex;gap:6px;flex-wrap:wrap}.ds-bb button{flex:1 1 90px;padding:7px 6px;font-size:.9em}
+.ds-rv{margin:8px 0;padding:8px;border-left:3px solid var(--ds-amber);background:#ffffff14;border-radius:0 8px 8px 0}
+.ds-rv ol{margin:.3em 0;padding-left:1.2em}.ds-n{font-style:italic;color:#ffd98a;margin:.4em 0 0}
+.ds-bc .back{display:block;margin-top:6px}
+body.rm *,body.rm *::before,body.rm *::after{animation:none!important;transition:none!important}
+body.rm .ds-in{transition:none!important}

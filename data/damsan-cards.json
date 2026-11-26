@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "collection": "ĐĂM SĂN ĐI BẮT NỮ THẦN MẶT TRỜI",
+  "subject": "Ngữ văn 10",
+  "series": "Kết nối tri thức với cuộc sống",
+  "lesson": "Bài 4: Sức sống của sử thi",
+  "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111",
+  "groups": {
+   "nhanvat": "Nhân vật",
+   "bieutuong": "Biểu tượng",
+   "sukien": "Sự kiện",
+   "nghethuat": "Nghệ thuật",
+   "vanhoa": "Văn hóa",
+   "tuduy": "Thử thách tư duy"
+  }
+ },
+ "cards": [
+  {
+   "id": "NV01",
+   "name": "ĐĂM SĂN",
+   "group": "nhanvat",
+   "keywords": [
+    "Khát vọng",
+    "Dũng khí",
+    "Thử thách"
+   ],
+   "knowledge": "Đăm Săn là người anh hùng sử thi Ê-đê có khát vọng lớn lao, dũng cảm, quyết tâm vượt qua thử thách. Tuy nhiên, hành trình của chàng cũng bộc lộ giới hạn trong nhận thức và lựa chọn.",
+   "question": "Khát vọng của Đăm Săn thể hiện vẻ đẹp và giới hạn nào của người anh hùng sử thi?",
+   "hint": "Xem xét mục đích chuyến đi, thái độ trước lời can ngăn và kết cục của nhân vật.",
+   "answer": "Khát vọng thể hiện dũng khí, ý chí chinh phục và mong muốn vươn tới những điều lớn lao. Tuy nhiên, sự quá tự tin và việc không cân nhắc đầy đủ lời cảnh báo cũng góp phần dẫn đến bi kịch.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Viết 3–5 câu phân tích một chi tiết tiêu biểu làm nổi bật phẩm chất của Đăm Săn."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "NV02",
+   "name": "ĐĂM PAR KVÂY",
+   "group": "nhanvat",
+   "keywords": [
+    "Tình bạn",
+    "Lời khuyên",
+    "Cảnh báo"
+   ],
+   "knowledge": "Đăm Par Kvây là người tiếp đón và can ngăn Đăm Săn trước hành trình đầy nguy hiểm.",
+   "question": "Lời can ngăn của Đăm Par Kvây có ý nghĩa gì đối với hành trình và số phận của Đăm Săn?",
+   "hint": "Chú ý những nguy hiểm được dự báo trước chuyến đi.",
+   "answer": "Lời can ngăn thể hiện sự quan tâm, tình bạn, góp phần dự báo thử thách và làm nổi bật quyết tâm cũng như sự lựa chọn của Đăm Săn.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Nếu ở vị trí Đăm Par Kvây, em sẽ đưa ra lời khuyên nào cho Đăm Săn? Giải thích."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "NV03",
+   "name": "NỮ THẦN MẶT TRỜI",
+   "group": "nhanvat",
+   "keywords": [
+    "Vẻ đẹp",
+    "Sự sống",
+    "Trật tự"
+   ],
+   "knowledge": "Nữ Thần Mặt Trời mang vẻ đẹp huyền thoại, gắn với sự sống và trật tự của thế giới tự nhiên.",
+   "question": "Vì sao Nữ Thần Mặt Trời từ chối lời cầu hôn của Đăm Săn?",
+   "hint": "Xem xét vai trò của nữ thần đối với con người và muôn loài.",
+   "answer": "Nữ thần có vị trí và chức năng gắn với trật tự của thế giới. Nếu nàng rời bỏ vị trí của mình, sự sống của con người và muôn loài sẽ bị ảnh hưởng.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Phân tích ý nghĩa của sự từ chối trong việc thể hiện chủ đề tác phẩm."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "BT01",
+   "name": "BIỂU TƯỢNG MẶT TRỜI",
+   "group": "bieutuong",
+   "keywords": [
+    "Ánh sáng",
+    "Sự sống",
+    "Thiên nhiên"
+   ],
+   "knowledge": "Mặt trời là hình tượng nghệ thuật gợi ánh sáng, sự sống và trật tự tự nhiên.",
+   "question": "Hình tượng Mặt Trời thể hiện quan niệm gì về sự sống và thiên nhiên?",
+   "hint": "Liên hệ lời giải thích của Nữ Thần Mặt Trời.",
+   "answer": "Hình tượng thể hiện nhận thức của cộng đồng về vai trò quan trọng của tự nhiên đối với sự sống, đồng thời gợi suy ngẫm về giới hạn của con người trước thế giới tự nhiên.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ STEAM",
+     "t": "Phân biệt ý nghĩa biểu tượng của Mặt Trời trong sử thi với vai trò khoa học của ánh sáng mặt trời đối với sự sống trên Trái Đất."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "SK01",
+   "name": "HÀNH TRÌNH HUYỀN THOẠI",
+   "group": "sukien",
+   "keywords": [
+    "Khám phá",
+    "Thử thách",
+    "Lựa chọn"
+   ],
+   "knowledge": "Hành trình của Đăm Săn thể hiện khát vọng vượt qua những giới hạn và thử thách.",
+   "question": "Hãy hệ thống hóa các chặng chính trong hành trình của Đăm Săn.",
+   "answer": [
+    "Đến nơi ở của Đăm Par Kvây.",
+    "Vượt qua những trở ngại trên đường đi.",
+    "Gặp Nữ Thần Mặt Trời và bị từ chối.",
+    "Trở về và gặp bi kịch tại Rừng Đen."
+   ],
+   "tasks": [
+    {
+     "l": "Nhiệm vụ tương tác",
+     "t": "Tạo trò chơi sắp xếp các sự kiện theo đúng trình tự."
+    },
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Thiết kế sơ đồ hành trình Đăm Săn và chú thích ý nghĩa của từng chặng."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "SK02",
+   "name": "RỪNG ĐEN",
+   "group": "sukien",
+   "keywords": [
+    "Cảnh báo",
+    "Nguy hiểm",
+    "Bi kịch"
+   ],
+   "knowledge": "Rừng Đen là không gian gắn với thử thách và kết cục bi kịch của Đăm Săn.",
+   "question": "Bi kịch của Đăm Săn ở Rừng Đen đã được dự báo như thế nào?",
+   "hint": "Chú ý lời can ngăn và lời cảnh báo về thời điểm mặt trời lên.",
+   "answer": "Những cảnh báo trước và trong hành trình góp phần dự báo nguy hiểm. Kết cục của Đăm Săn cho thấy hậu quả của việc không cân nhắc đầy đủ những giới hạn và nguy cơ.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Giải thích tác dụng nghệ thuật của việc dự báo kết thúc câu chuyện."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "NT01",
+   "name": "NGHỆ THUẬT LỜI KỂ",
+   "group": "nghethuat",
+   "keywords": [
+    "So sánh",
+    "Phóng đại",
+    "Kỳ vĩ"
+   ],
+   "knowledge": "Lời kể và miêu tả sử thi thường sử dụng hình ảnh giàu sức gợi, so sánh và phóng đại nhằm tạo nên tầm vóc kỳ vĩ của nhân vật và thế giới sử thi.",
+   "question": "Tìm một chi tiết so sánh hoặc phóng đại trong văn bản và phân tích tác dụng.",
+   "hint": "Tìm trong các đoạn miêu tả nhân vật, ngôi nhà và hành trình.",
+   "answer": "Học sinh lựa chọn chi tiết chính xác trong SGK, gọi tên biện pháp nghệ thuật và phân tích tác dụng đối với hình tượng nhân vật hoặc không gian sử thi.",
+   "note": "Không tự tạo dẫn chứng hoặc trích dẫn không có trong SGK.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Viết một câu miêu tả sáng tạo sử dụng so sánh hoặc phóng đại."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "NT02",
+   "name": "NGHỆ THUẬT ĐỐI THOẠI",
+   "group": "nghethuat",
+   "keywords": [
+    "Xung đột",
+    "Cá tính",
+    "Quan niệm"
+   ],
+   "knowledge": "Lời đối thoại giúp bộc lộ tính cách, quan niệm và sự lựa chọn của nhân vật.",
+   "question": "Cuộc đối thoại giữa Đăm Săn và Nữ Thần Mặt Trời làm nổi bật sự khác biệt nào về quan niệm?",
+   "answer": "Đăm Săn thể hiện khát vọng chinh phục và mong muốn cá nhân, trong khi Nữ Thần Mặt Trời ý thức về vị trí, trách nhiệm của mình đối với sự sống.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Nhập vai hai nhân vật để trình bày quan điểm của mỗi người dựa trên văn bản."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "VH01",
+   "name": "VĂN HÓA TIẾP KHÁCH",
+   "group": "vanhoa",
+   "keywords": [
+    "Nhà dài",
+    "Rượu ché",
+    "Cộng đồng"
+   ],
+   "knowledge": "Những chi tiết sinh hoạt trong sử thi góp phần phản ánh đời sống và văn hóa cộng đồng Ê-đê.",
+   "question": "Những chi tiết nào thể hiện nét đẹp văn hóa tiếp khách của người Ê-đê?",
+   "hint": "Tìm hiểu không gian tiếp khách, cách đón tiếp và những vật dụng xuất hiện trong văn bản.",
+   "answer": "Các chi tiết về việc đón tiếp, ăn uống, ché rượu và không gian sinh hoạt cộng đồng góp phần thể hiện sự hiếu khách và gắn kết giữa con người.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Thiết kế một infographic giới thiệu nét đẹp văn hóa Ê-đê, có ghi nguồn tư liệu."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111",
+   "sourceNote": "Nội dung mở rộng, không nằm trực tiếp trong ngữ liệu đã nêu: giáo viên bổ sung nguồn tư liệu phù hợp khi dạy."
+  },
+  {
+   "id": "VH02",
+   "name": "NGHỆ THUẬT KỂ KHAN",
+   "group": "vanhoa",
+   "keywords": [
+    "Diễn xướng",
+    "Truyền miệng",
+    "Di sản"
+   ],
+   "knowledge": "Kể khan là hình thức diễn xướng sử thi gắn với đời sống văn hóa cộng đồng Ê-đê.",
+   "question": "Nghệ thuật kể khan có vai trò gì trong việc lưu truyền sử thi Ê-đê?",
+   "answer": "Kể khan giúp lưu truyền những câu chuyện, ký ức, quan niệm, lý tưởng và giá trị văn hóa của cộng đồng qua nhiều thế hệ.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Thu âm một đoạn kể lại hành trình Đăm Săn trong khoảng 60 giây. Không mô phỏng tùy tiện nghi thức văn hóa hoặc tự nhận sản phẩm là bản kể khan xác thực."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111",
+   "sourceNote": "Nội dung mở rộng, không nằm trực tiếp trong ngữ liệu đã nêu: giáo viên bổ sung nguồn tư liệu phù hợp khi dạy."
+  },
+  {
+   "id": "TC01",
+   "name": "GIỚI HẠN CỦA KHÁT VỌNG",
+   "group": "tuduy",
+   "keywords": [
+    "Khát vọng",
+    "Giới hạn",
+    "Trách nhiệm"
+   ],
+   "question": "Cái chết của Đăm Săn có phủ định vẻ đẹp của người anh hùng sử thi không? Vì sao?",
+   "hint": "Đánh giá nhân vật từ nhiều góc độ, phân biệt khát vọng, hành động và hậu quả.",
+   "answer": "Cái chết không nhất thiết phủ định vẻ đẹp của Đăm Săn. Nhân vật vẫn thể hiện dũng khí và khát vọng lớn lao, đồng thời đặt ra những suy ngẫm về giới hạn, sự lựa chọn và trách nhiệm. Chấp nhận những quan điểm khác nhau nếu có lập luận và dẫn chứng thuyết phục.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Viết đoạn văn khoảng 150 chữ bàn về giới hạn của khát vọng con người."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111"
+  },
+  {
+   "id": "TC02",
+   "name": "ĐĂM SĂN VÀ HÉC-TO",
+   "group": "tuduy",
+   "keywords": [
+    "Anh hùng",
+    "Cộng đồng",
+    "Số phận"
+   ],
+   "question": "Hãy chỉ ra một điểm tương đồng và một điểm khác biệt giữa Đăm Săn và Héc-to.",
+   "hint": "So sánh phẩm chất, động cơ hành động, mối quan hệ với cộng đồng và bối cảnh sử thi.",
+   "answer": "Cả hai đều mang vẻ đẹp của người anh hùng sử thi, thể hiện dũng khí và ý thức về danh dự. Tuy nhiên, động cơ, hoàn cảnh và sự lựa chọn của mỗi nhân vật có những nét khác nhau, phản ánh đặc điểm riêng của hai nền văn hóa. Học sinh cần chứng minh bằng dẫn chứng từ hai văn bản.",
+   "tasks": [
+    {
+     "l": "Nhiệm vụ nâng cao",
+     "t": "Thiết kế sơ đồ Venn so sánh hai người anh hùng."
+    }
+   ],
+   "source": "SGK Ngữ văn 10, tập một (Kết nối tri thức với cuộc sống), Bài 4: Sức sống của sử thi, tr. 105–111",
+   "sourceNote": "Nội dung mở rộng, không nằm trực tiếp trong ngữ liệu đã nêu: giáo viên bổ sung nguồn tư liệu phù hợp khi dạy."
+  }
+ ]
+}
